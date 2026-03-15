@@ -24,7 +24,7 @@ I am a developer who bridges the gap between minimalist design and clean, functi
 
 
 ###  Let's Work Together
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 I am currently available for freelance projects on **Upwork** and remote frontend roles. 
 
 **GitHub:** You're already here.
