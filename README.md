@@ -1,12 +1,11 @@
 # Hi, I'm Olivia. 👋 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 
  **Frontend Developer | High-Conversion Landing Page Specialist**
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 I am a developer who bridges the gap between minimalist design and clean, functional code. I focus on creating fast, visually clear websites that help businesses present their brand professionally online across mobile, tablet, and desktop devices I bridge the gap between design and code, helping businesses establish a professional digital presence with clean, SEO-friendly **HTML5** and **CSS3**.
 
 
