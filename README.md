@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Olivia. 👋 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-<!--
-**Ohlie-Dev/ohlie-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ **Frontend Developer | High-Conversion Landing Page Specialist**
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+I am a developer who bridges the gap between minimalist design and clean, functional code. I focus on creating fast, visually clear websites that help businesses present their brand professionally online across mobile, tablet, and desktop devices I bridge the gap between design and code, helping businesses establish a professional digital presence with clean, SEO-friendly **HTML5** and **CSS3**.
+
+
+
+ **MY TECH STACK AND TOOLS**
+     **Languages:** HTML5, CSS3 (Flexbox & Grid)
+     **Frameworks:** Bootstrap
+     **Design Inspiration:** Pinterest & Minimalist UI/UX
+     **Deployment:** GitHub Pages
+
+
+ **Featured Project**
+**[GreenRoot — Organic Food Landing Page](https://ohlie-dev.github.io/greenroot-organic-landing-page/)**
+*A high-fidelity project demonstrating my ability to build professional, mobile-responsive layouts for sustainable brands.*
+
+
+
+###  Let's Work Together
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+I am currently available for freelance projects on **Upwork** and remote frontend roles. 
+
+**GitHub:** You're already here.
+**Portfolio:** [ohlie-dev.github.io](https://ohlie-dev.github.io)
+**Goal:** Solving business problems through clean code.
