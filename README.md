@@ -10,11 +10,17 @@ I am a developer who bridges the gap between minimalist design and clean, functi
 
 
 
+_______________________________________________________________
+
  **MY TECH STACK AND TOOLS**
      **Languages:** HTML5, CSS3 (Flexbox & Grid)
      **Frameworks:** Bootstrap
      **Design Inspiration:** Pinterest & Minimalist UI/UX
      **Deployment:** GitHub Pages
+
+
+
+______________________________________________________
 
 
  **Featured Project**
@@ -23,6 +29,8 @@ I am a developer who bridges the gap between minimalist design and clean, functi
 
 
 
+______________________________________________________
+
 ###  Let's Work Together
 
 I am currently available for freelance projects on **Upwork** and remote frontend roles. 
@@ -30,3 +38,6 @@ I am currently available for freelance projects on **Upwork** and remote fronten
 **GitHub:** You're already here.
 **Portfolio:** [ohlie-dev.github.io](https://ohlie-dev.github.io)
 **Goal:** Solving business problems through clean code.
+
+______________________________________________________
+
