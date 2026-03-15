@@ -4,7 +4,7 @@
 
 
 
- **Frontend Developer | High-Conversion Landing Page Specialist**
+ **💻 Frontend Developer | High-Conversion Landing Page Specialist**
 
 I am a developer who bridges the gap between minimalist design and clean, functional code. I focus on creating fast, visually clear websites that help businesses present their brand professionally online. I bridge the gap between design and code, helping businesses establish a professional digital presence with clean, SEO-friendly **HTML5** and **CSS3**.
 
@@ -12,11 +12,11 @@ I am a developer who bridges the gap between minimalist design and clean, functi
 
 _______________________________________________________________
 
- **MY TECH STACK AND TOOLS**
-     **Languages:** HTML5, CSS3 (Flexbox & Grid)
-     **Frameworks:** Bootstrap
-     **Design Inspiration:** Pinterest & Minimalist UI/UX
-     **Deployment:** GitHub Pages
+ ### 💻 My Tech Stack and Tools
+- **Languages:** HTML5, CSS3 (Flexbox & Grid)
+- **Frameworks:** Bootstrap
+- **Design Inspiration:** Pinterest & Minimalist UI/UX
+- **Deployment:** GitHub Pages
 
 
 
@@ -31,7 +31,7 @@ ______________________________________________________
 
 ______________________________________________________
 
-###  Let's Work Together
+### 🤝 Let's Work Together
 
 I am currently available for freelance projects on **Upwork** and remote frontend roles. 
 
