@@ -63,7 +63,9 @@ ______________________________________________________
 I am currently available for freelance projects on **Upwork** and remote frontend roles. 
 
  **GitHub: This page.**
+ 
  **Portfolio: [ohlie-dev.github.io](https://ohlie-dev.github.io)**
+
  **Goal: Solving business problems through clean code**
 
 ______________________________________________________
