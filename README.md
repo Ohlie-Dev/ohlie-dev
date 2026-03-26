@@ -32,7 +32,7 @@ Key Features: Interactive scroll animations (AOS), Bootstrap 5 Grid, and optimiz
 
 Tech Stack: HTML5, CSS3, JavaScript, Bootstrap 5.
 
-Links: Live Demo(https://graciebites.netlify.app/)| View Code()
+Links: Live Demo(https://graciebites.netlify.app/)| View Code(https://github.com/Ohlie-Dev/gracie-bites-restaurant-landing-page)
 
 
 ______________________________________________________
@@ -45,7 +45,7 @@ Key Features: Custom CSS layouts, mobile-responsive design, and a focus on typog
 
 Tech Stack: HTML5, CSS3, Flexbox/Grid.
 
-Links: Live Demo | View Code
+Links: [Live Demo] (https://greenrootorganic.netlify.app/)| [View Code]()
 
 ______________________________________________________
 
