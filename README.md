@@ -11,7 +11,7 @@ I am a developer who bridges the gap between minimalist design and clean, functi
 
 _______________________________________________________________
 
- ### 💻 My Tech Stack and Tools
+ 💻# My Tech Stack and Tools
 - **Languages:** HTML5, CSS3 (Flexbox & Grid)
 - **Frameworks:** Bootstrap
 - **Design Inspiration:** Pinterest & Minimalist UI/UX
@@ -22,9 +22,9 @@ _______________________________________________________________
 ______________________________________________________
 
 
- **Featured Project**
+ # FEATURED PROJECT
 
-# 1. GRACIE BITES - RESTAURANT LANDING PAGE
+**1. Gracie Bites- Restaurant Landing Page**
 
 A high-conversion, responsive landing page built for a organic food brand.
 
@@ -37,8 +37,7 @@ Links: Live Demo(https://graciebites.netlify.app/)| View Code()
 
 ______________________________________________________
 
-
-# 2.GREENROOT – ORGANIC Landing Page
+ **2.GreenRoot Oraganic Landing Page**
 
 A clean, minimalist landing page focused on sustainability and modern UI/UX principles.
 
@@ -55,9 +54,9 @@ ______________________________________________________
 
 I am currently available for freelance projects on **Upwork** and remote frontend roles. 
 
-# GitHub: This page.
-# Portfolio: [ohlie-dev.github.io](https://ohlie-dev.github.io)
-# Goal: Solving business problems through clean code.
+ **GitHub: This page.**
+ **Portfolio: [ohlie-dev.github.io](https://ohlie-dev.github.io)**
+ **Goal: Solving business problems through clean code**
 
 ______________________________________________________
 
