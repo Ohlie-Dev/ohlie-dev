@@ -1,7 +1,6 @@
 # Hi, I'm Olivia. 👋 
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 
  **💻 Frontend Developer | High-Conversion Landing Page Specialist**
@@ -24,20 +23,41 @@ ______________________________________________________
 
 
  **Featured Project**
-**[GreenRoot — Organic Food Landing Page](https://ohlie-dev.github.io/greenroot-organic-landing-page/)**
-*A high-fidelity project demonstrating my ability to build professional, mobile-responsive layouts for sustainable brands.*
 
+# 1. GRACIE BITES - RESTAURANT LANDING PAGE
+
+A high-conversion, responsive landing page built for a organic food brand.
+
+Key Features: Interactive scroll animations (AOS), Bootstrap 5 Grid, and optimized food photography.
+
+Tech Stack: HTML5, CSS3, JavaScript, Bootstrap 5.
+
+Links: Live Demo(https://graciebites.netlify.app/)| View Code()
 
 
 ______________________________________________________
+
+
+# 2.GREENROOT – ORGANIC Landing Page
+
+A clean, minimalist landing page focused on sustainability and modern UI/UX principles.
+
+Key Features: Custom CSS layouts, mobile-responsive design, and a focus on typography.
+
+Tech Stack: HTML5, CSS3, Flexbox/Grid.
+
+Links: Live Demo | View Code
+
+______________________________________________________
+
 
 ### 🤝 Let's Work Together
 
 I am currently available for freelance projects on **Upwork** and remote frontend roles. 
 
-**GitHub:** You're already here.
-**Portfolio:** [ohlie-dev.github.io](https://ohlie-dev.github.io)
-**Goal:** Solving business problems through clean code.
+# GitHub: This page.
+# Portfolio: [ohlie-dev.github.io](https://ohlie-dev.github.io)
+# Goal: Solving business problems through clean code.
 
 ______________________________________________________
 
