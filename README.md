@@ -11,7 +11,7 @@ I am a developer who bridges the gap between minimalist design and clean, functi
 
 _______________________________________________________________
 
- 💻# My Tech Stack and Tools
+ # 💻My Tech Stack and Tools
 - **Languages:** HTML5, CSS3 (Flexbox & Grid)
 - **Frameworks:** Bootstrap
 - **Design Inspiration:** Pinterest & Minimalist UI/UX
@@ -45,12 +45,14 @@ Key Features: Custom CSS layouts, mobile-responsive design, and a focus on typog
 
 Tech Stack: HTML5, CSS3, Flexbox/Grid.
 
-Links: [Live Demo] (https://greenrootorganic.netlify.app/)| [View Code]()
+  ### Links:
+**Live Demo** https://greenrootorganic.netlify.app/
+**View Code** https://github.com/Ohlie-Dev/greenroot-organic-landing-page
 
 ______________________________________________________
 
 
-### 🤝 Let's Work Together
+###💻 🤝 Let's Work Together
 
 I am currently available for freelance projects on **Upwork** and remote frontend roles. 
 
