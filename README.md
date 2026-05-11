@@ -12,7 +12,7 @@ I am a developer who bridges the gap between minimalist design and clean, functi
 _______________________________________________________________
 
  # 💻My Tech Stack and Tools
-- **Languages:** HTML5, CSS3 (Flexbox & Grid)
+- **Skills:** HTML5, CSS3 (Flexbox & Grid), WordPress, Elementor, Javascript (In training)
 - **Frameworks:** Bootstrap
 - **Design Inspiration:** Pinterest & Minimalist UI/UX
 - **Deployment:** GitHub Pages
